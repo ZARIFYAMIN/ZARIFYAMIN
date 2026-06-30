@@ -1,7 +1,7 @@
 # Hi 👨‍💻, I'm Kazi Zarif Yamin
 
-### 🏫 Computer Science & Engineering Student at BRAC University
-Welcome to my tech corner! I build web apps, tackle programming challenges, and design database structures.
+### 🎓 Computer Science & Engineering Student at BRAC University
+Welcome to my GitHub space! I love building functional web applications, solving problems, and exploring backend Architectures.
 
 ---
 
