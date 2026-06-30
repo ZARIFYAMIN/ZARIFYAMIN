@@ -20,14 +20,15 @@ Welcome to my GitHub space! I love building functional web applications, solving
 ### 🔍 More About Me
 - 🎯 **Current Focus:** Full-Stack Web Development & Advanced Database Systems.
 - 📐 **Interests:** Advanced Mathematics (Complex Analysis & Calculus) and Core Algorithms.
-- 💡 **Fun Fact:** I love analyzing the structural similarities between complex backend code and ancient administrative systems!
+- 📍 **Note:** I love analyzing the structural similarities between complex backend code and ancient administrative systems!
 
 ---
 
-### 📊 My Tech Metrics & Activity
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZARIFYAMIN&theme=tokyonight&hide_border=true" alt="Zarif's Coding Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZARIFYAMIN&theme=tokyonight" alt="Zarif's Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZARIFYAMIN&theme=tokyonight" alt="Zarif's Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZARIFYAMIN&theme=tokyonight" alt="Zarif's Top Languages" width="32%" />
+  
 </p>
 
 ---
