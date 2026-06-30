@@ -24,10 +24,10 @@ Welcome to my GitHub space! I love building functional web applications, solving
 
 ---
 
-### 📉 GitHub Insights
+### 📊 My Tech Metrics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=radical" alt="Zarif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZARIFYAMIN&theme=tokyonight&hide_border=true" alt="Zarif's Coding Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZARIFYAMIN&theme=tokyonight" alt="Zarif's Profile Details" width="49%" />
 </p>
 
 ---
