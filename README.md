@@ -1,11 +1,11 @@
-# Hi ⚡, I'm Kazi Zarif Yamin
+# Hi 👨‍💻, I'm Kazi Zarif Yamin
 
-### 🎓 Computer Science & Engineering Student at BRAC University
-Welcome to my GitHub space! I love building functional web applications, solving problems, and exploring backend Architectures.
+### 🏫 Computer Science & Engineering Student at BRAC University
+Welcome to my tech corner! I build web apps, tackle programming challenges, and design database structures.
 
 ---
 
-### 🛠️ Languages & Tools
+### 💻 Tech Stack & Toolkit
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -17,14 +17,14 @@ Welcome to my GitHub space! I love building functional web applications, solving
 
 ---
 
-### 🚀 About Me
-- 🔭 **Current Focus:** Full-Stack Web Development & Advanced Database Systems.
-- 🧠 **Interests:** Mathematics (Complex Analysis & Calculus) and Algorithm Design.
-- ⚡ **Fun Fact:** I like digging deep into how software systems and ancient administrative architectures connect!
+### 🔍 More About Me
+- 🎯 **Current Focus:** Full-Stack Web Development & Advanced Database Systems.
+- 📐 **Interests:** Advanced Mathematics (Complex Analysis & Calculus) and Core Algorithms.
+- 💡 **Fun Fact:** I love analyzing the structural similarities between complex backend code and ancient administrative systems!
 
 ---
 
-### 📊 GitHub Analytics
+### 📉 GitHub Insights
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=radical&hide_border=true" alt="Zarif's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
@@ -32,7 +32,7 @@ Welcome to my GitHub space! I love building functional web applications, solving
 
 ---
 
-### 🤝 Connect with me
+### 🌐 Let's Connect!
 <p align="left">
   <a href="mailto:zarifdhip@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/kazi-zarif-yamin-4400622b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
