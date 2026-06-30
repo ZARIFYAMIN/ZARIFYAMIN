@@ -26,8 +26,8 @@ Welcome to my GitHub space! I love building functional web applications, solving
 
 ### 📉 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=radical" alt="Zarif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=radical" alt="Zarif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
