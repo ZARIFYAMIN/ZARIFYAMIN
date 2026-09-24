@@ -26,8 +26,8 @@ Welcome to my GitHub space! I love building functional web applications, solving
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zarif's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10" alt="Zarif's Top Languages" width="38%" />
+  <img src="https://github-readme-stats-zeta-eight-44.vercel.app/api?username=ZARIFYAMIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zarif's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-zeta-eight-44.vercel.app/api/top-langs/?username=ZARIFYAMIN&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&langs_count=10" alt="Zarif's Top Languages" width="38%" />
 </p>
 
 ---
@@ -38,4 +38,5 @@ Welcome to my GitHub space! I love building functional web applications, solving
   <a href="https://www.linkedin.com/in/kazi-zarif-yamin-4400622b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/share/199StPeaVx/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/_.zarif_yamin_._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/profile/zarifdhip" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-
+  <a href="https://www.hackerrank.com/profile/zarifdhip" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
